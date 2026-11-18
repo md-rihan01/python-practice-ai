@@ -1,0 +1,24 @@
+[project]
+name = "9-fastapi"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "Md Rihan", email = "rihan@sharajman.com" }
+]
+requires-python = ">=3.14"
+dependencies = [
+    "fastapi[standard]>=0.163.1",
+    "google-genai",
+    "python-dotenv",
+]
+
+[project.scripts]
+9-fastapi = "_9_fastapi:main"
+
+[tool.uv.build-backend]
+module-name = "_9_fastapi"
+
+[build-system]
+requires = ["uv_build>=0.13.8,<0.14.0"]
+build-backend = "uv_build"

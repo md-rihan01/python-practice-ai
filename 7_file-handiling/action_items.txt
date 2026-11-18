@@ -1,0 +1,16 @@
+Task 1
+Task: Check all the machines and finish the machine check by Friday
+Owner: Anjali
+----------------------------------------
+Task 2
+Task: Fix the painting step
+Owner: Unassigned
+----------------------------------------
+Task 3
+Task: Plan some extra shifts to cover the gap
+Owner: Ramesh
+----------------------------------------
+Task 4
+Task: Send a short report on the paint problem to Meena by tomorrow
+Owner: Vikram
+----------------------------------------
